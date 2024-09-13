@@ -1,3 +1,5 @@
+# https://github.com/Andredev-dias/Base-de-Algoritmos-em-C_v2/blob/master/trabalhostructIPTU.c
+
 class imovel_dados:
     def __init__(self, numcad, valorIPTU, mesesatrasado, valorMulta) :
         self.numcad = numcad
