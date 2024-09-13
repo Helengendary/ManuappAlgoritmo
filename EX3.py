@@ -1,4 +1,4 @@
-
+# https://github.com/Andredev-dias/Base-de-Algoritmos-em-C_v2/blob/master/EX3.c
 
 class estagiarios:
     def __init__(self, codigo, nome, ano, sal, sal_anual) :
