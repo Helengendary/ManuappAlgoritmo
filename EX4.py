@@ -1,3 +1,4 @@
+# https://github.com/Andredev-dias/Base-de-Algoritmos-em-C_v2/blob/master/EX4.c
 
 valor = 1
 soma = 0
