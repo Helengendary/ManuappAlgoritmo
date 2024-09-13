@@ -1,3 +1,4 @@
+# https://github.com/Andredev-dias/Base-de-Algoritmos-em-C/blob/master/candidato.c
 
 pres = 0
 gov = 0

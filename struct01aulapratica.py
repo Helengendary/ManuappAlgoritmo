@@ -1,4 +1,4 @@
-
+# https://github.com/Andredev-dias/Base-de-Algoritmos-em-C_v2/blob/master/struct01aulapratica.c
 
 class ficha_aluno:
     def __init__(self, codigo, nome, telefone, mail) :
