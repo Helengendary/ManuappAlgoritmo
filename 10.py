@@ -26,4 +26,4 @@ print("\n****************************************************")
 print("****************************************************")
 print("****************************************************\n")
 
-printf(f"O competidor {comp.codigo} , tem {comp.age} anos, pesa {comp.weight} Kg e tem {comp.height} de altura. \n")
+print(f"O competidor {comp.codigo} , tem {comp.age} anos, pesa {comp.weight} Kg e tem {comp.height} de altura. \n")
